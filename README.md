@@ -64,11 +64,6 @@
   [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://https://www.behance.net/ronakmangroliya)
 
 <br>
-
-## 🐍 My Contributions Graph
-
-<img align="center" width="100%" src="https://raw.githubusercontent.com/ronakmangroliya/github-contributions-snake/snake/github-contribution-grid-snake.svg" />
-<br>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
