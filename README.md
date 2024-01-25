@@ -9,8 +9,8 @@
 <!-- <picture><img align="right" alt="GIF" width="300px" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" /></picture> -->
 
 - A passionate Self-taught developer
-- Currently post graduate student at Humber college
-- I’m currently open for an Intern or a new job opportunity
+- Currently a post-graduate student at Humber College
+- I’m currently open for an internship or a new job opportunity
 
 <br>
 
