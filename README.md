@@ -14,8 +14,6 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 
 ## <img src="https://user-images.githubusercontent.com/11982391/223628233-c7ff1b07-2aa7-4087-afeb-a7280019675d.gif" width ="30"><b> Skills</b>
 
@@ -56,6 +54,4 @@
   [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://https://www.behance.net/ronakmangroliya)
 
 <br>
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
