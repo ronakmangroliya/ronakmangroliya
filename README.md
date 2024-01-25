@@ -43,8 +43,6 @@
 <br>
 
 </p>
-
-## <img src="https://user-images.githubusercontent.com/11982391/223628232-6925af0e-2484-449e-be8f-bd4a097aaece.gif" width="35"><b> Github Stats </b>
 <br>
 
 ## <img src="https://user-images.githubusercontent.com/11982391/223627638-2b07db93-8cc5-4269-8881-930f054e28a1.gif" width ="80"><b> Let's Connect..!</b>
