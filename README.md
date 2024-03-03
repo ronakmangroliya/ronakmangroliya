@@ -60,5 +60,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/11982391/223627638-2b07db93-8cc5-4269-8881-930f054e28a1.gif" width="80"> Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronak-mangroliya-1b71b6163/)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/ronakmangroliya)
+- **Social**:
+
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronak-mangroliya-1b71b6163/)
+   [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/ronakmangroliya)
