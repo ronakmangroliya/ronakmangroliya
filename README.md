@@ -6,9 +6,10 @@
 	
 ## <img src="https://user-images.githubusercontent.com/11982391/223627589-fb9959db-7bb5-4173-b15b-b23e445687e8.gif" width="50"> About Me
 
-- Passionate self-taught developer
-- Post-graduate student at Humber College
-- Currently seeking internship or job opportunities
+- Recent graduate from Humber College with a passion for software development.
+- Self-taught developer with a strong foundation in multiple programming languages and technologies.
+- Actively seeking internship or job opportunities to apply and enhance my skills in real-world projects.
+- Dedicated to continuous learning and staying updated with the latest trends and advancements in the tech industry.
 
 <br>
 
